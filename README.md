@@ -3,4 +3,4 @@ ToDo MVC Page Automation using Selenium
 
 This project automates GUI Testing of some of the basic functionalities of the ToDo List MVC web page.
 
-https://kapilmurthyd.github.io/ToDo_MVC_Selenium_Automation/
+https://github.com/kapilmurthyd/ToDo_MVC_Selenium_Automation/
