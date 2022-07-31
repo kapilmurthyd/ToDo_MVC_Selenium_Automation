@@ -1,0 +1,214 @@
+2022-07-30 23:16:04,292 -INFO - 
+
+
+2022-07-30 23:16:04,292 -INFO - *********************Scenario Name: Delete items from ToDo list having Multiple Items*********************
+2022-07-30 23:16:06,954 -INFO - 
+
+
+2022-07-30 23:16:06,954 -INFO - *********************Scenario Name: Mark items as Completed in ToDo list having Multiple Items*********************
+2022-07-30 23:16:08,798 -INFO - 
+
+
+2022-07-30 23:16:08,798 -INFO - *********************Scenario Name: Check functionality of Active button in the ToDo list*********************
+2022-07-30 23:16:10,724 -INFO - 
+
+
+2022-07-30 23:16:10,734 -INFO - *********************Scenario Name: Check functionality of Completed button in the ToDo list*********************
+2022-07-30 23:16:12,762 -INFO - 
+
+
+2022-07-30 23:16:12,772 -INFO - *********************Scenario Name: Check functionality of Clear Completed button in the ToDo list*********************
+2022-07-30 23:16:14,546 -INFO - 
+
+
+2022-07-30 23:16:14,546 -INFO - *********************Scenario Name: Mark items as Completed in ToDo list having Single Item*********************
+2022-07-30 23:16:16,319 -INFO - 
+
+
+2022-07-30 23:16:16,319 -INFO - *********************Scenario Name: Delete item from ToDo list having Single Item*********************
+2022-07-30 23:26:22,097 -INFO - 
+
+
+2022-07-30 23:26:22,097 -INFO - *********************Scenario Name: Delete items from ToDo list having Multiple Items*********************
+2022-07-30 23:26:24,934 -INFO - Launching ToDo MVC Page
+2022-07-30 23:26:24,944 -INFO - Current Test Scenario is being executed in ENV1 environment
+2022-07-30 23:26:28,205 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:26:28,242 -INFO - Inside Validate_Page_Exists -->>>
+2022-07-30 23:26:28,242 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:26:28,478 -INFO - Todo MVC Page was launched successfully
+2022-07-30 23:26:28,478 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:28,800 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:28,801 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:29,088 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:29,088 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:29,303 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:29,304 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:29,575 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:29,697 -INFO - Inside DeleteItemsFromList -->>>
+2022-07-30 23:26:30,976 -INFO - Delete Item Action completed -->>>
+2022-07-30 23:26:30,976 -INFO - Inside DeleteItemsFromList -->>>
+2022-07-30 23:26:32,200 -INFO - Delete Item Action completed -->>>
+2022-07-30 23:26:33,073 -INFO - 
+
+
+2022-07-30 23:26:33,073 -INFO - *********************Scenario Name: Mark items as Completed in ToDo list having Multiple Items*********************
+2022-07-30 23:26:35,188 -INFO - Launching ToDo MVC Page
+2022-07-30 23:26:35,188 -INFO - Current Test Scenario is being executed in ENV1 environment
+2022-07-30 23:26:36,667 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:26:36,710 -INFO - Inside Validate_Page_Exists -->>>
+2022-07-30 23:26:36,710 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:26:36,915 -INFO - Todo MVC Page was launched successfully
+2022-07-30 23:26:36,915 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:37,242 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:37,243 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:37,491 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:37,492 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:37,672 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:37,673 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:37,956 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:37,957 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:38,183 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:38,184 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:38,378 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:38,438 -INFO - Inside MarkItemAsCompletedInList -->>>
+2022-07-30 23:26:39,610 -INFO - Mark Item as Completed, Action completed -->>>
+2022-07-30 23:26:39,610 -INFO - Inside MarkItemAsCompletedInList -->>>
+2022-07-30 23:26:40,783 -INFO - Mark Item as Completed, Action completed -->>>
+2022-07-30 23:26:40,783 -INFO - Inside MarkItemAsCompletedInList -->>>
+2022-07-30 23:26:41,934 -INFO - Mark Item as Completed, Action completed -->>>
+2022-07-30 23:26:41,957 -INFO - Inside VerifyItemMarkedAsCompletedInList -->>>
+2022-07-30 23:26:42,019 -INFO - Item is marked as Completed in the ToDo List as expected -->>>
+2022-07-30 23:26:42,019 -INFO - Inside VerifyItemMarkedAsCompletedInList -->>>
+2022-07-30 23:26:42,104 -INFO - Item is marked as Completed in the ToDo List as expected -->>>
+2022-07-30 23:26:42,104 -INFO - Inside VerifyItemMarkedAsCompletedInList -->>>
+2022-07-30 23:26:42,188 -INFO - Item is marked as Completed in the ToDo List as expected -->>>
+2022-07-30 23:26:43,064 -INFO - 
+
+
+2022-07-30 23:26:43,064 -INFO - *********************Scenario Name: Check functionality of Active button in the ToDo list*********************
+2022-07-30 23:26:45,154 -INFO - Launching ToDo MVC Page
+2022-07-30 23:26:45,155 -INFO - Current Test Scenario is being executed in ENV1 environment
+2022-07-30 23:26:47,001 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:26:47,044 -INFO - Inside Validate_Page_Exists -->>>
+2022-07-30 23:26:47,044 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:26:47,273 -INFO - Todo MVC Page was launched successfully
+2022-07-30 23:26:47,274 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:47,471 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:47,471 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:47,672 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:47,673 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:47,860 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:47,861 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:48,040 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:48,040 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:48,210 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:48,211 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:26:48,377 -INFO - Add Item Action completed -->>>
+2022-07-30 23:26:48,434 -INFO - Inside MarkItemAsCompletedInList -->>>
+2022-07-30 23:26:49,586 -INFO - Mark Item as Completed, Action completed -->>>
+2022-07-30 23:26:49,587 -INFO - Inside MarkItemAsCompletedInList -->>>
+2022-07-30 23:26:50,738 -INFO - Mark Item as Completed, Action completed -->>>
+2022-07-30 23:26:50,738 -INFO - Inside MarkItemAsCompletedInList -->>>
+2022-07-30 23:26:51,908 -INFO - Mark Item as Completed, Action completed -->>>
+2022-07-30 23:26:51,909 -INFO - Inside ClickOnActiveButton -->>>
+2022-07-30 23:26:51,983 -INFO - Clicked on Active button -->>>
+2022-07-30 23:26:51,987 -INFO - Inside Validate_OnlyActiveItemsAreDisplayedInTheList -->>>
+2022-07-30 23:26:57,035 -INFO - Only Active Items are displayed in the list -->>>
+2022-07-30 23:26:57,927 -INFO - 
+
+
+2022-07-30 23:26:57,927 -INFO - *********************Scenario Name: Check functionality of Completed button in the ToDo list*********************
+2022-07-30 23:26:59,993 -INFO - Launching ToDo MVC Page
+2022-07-30 23:26:59,993 -INFO - Current Test Scenario is being executed in ENV1 environment
+2022-07-30 23:27:02,551 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:27:02,593 -INFO - Inside Validate_Page_Exists -->>>
+2022-07-30 23:27:02,593 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:27:02,820 -INFO - Todo MVC Page was launched successfully
+2022-07-30 23:27:02,820 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:03,065 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:03,066 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:03,382 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:03,382 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:03,552 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:03,552 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:03,720 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:03,721 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:03,893 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:03,893 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:04,093 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:04,153 -INFO - Inside MarkItemAsCompletedInList -->>>
+2022-07-30 23:27:05,303 -INFO - Mark Item as Completed, Action completed -->>>
+2022-07-30 23:27:05,303 -INFO - Inside MarkItemAsCompletedInList -->>>
+2022-07-30 23:27:06,483 -INFO - Mark Item as Completed, Action completed -->>>
+2022-07-30 23:27:06,483 -INFO - Inside MarkItemAsCompletedInList -->>>
+2022-07-30 23:27:07,649 -INFO - Mark Item as Completed, Action completed -->>>
+2022-07-30 23:27:07,650 -INFO - Inside ClickOnCompletedButton -->>>
+2022-07-30 23:27:07,701 -INFO - Clicked on Completed button -->>>
+2022-07-30 23:27:07,703 -INFO - Inside Validate_OnlyCompletedItemsAreDisplayedInTheList -->>>
+2022-07-30 23:27:12,747 -INFO - Only Completed Items are displayed in the list -->>>
+2022-07-30 23:27:13,562 -INFO - 
+
+
+2022-07-30 23:27:13,562 -INFO - *********************Scenario Name: Check functionality of Clear Completed button in the ToDo list*********************
+2022-07-30 23:27:15,757 -INFO - Launching ToDo MVC Page
+2022-07-30 23:27:15,758 -INFO - Current Test Scenario is being executed in ENV1 environment
+2022-07-30 23:27:17,442 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:27:17,485 -INFO - Inside Validate_Page_Exists -->>>
+2022-07-30 23:27:17,485 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:27:17,653 -INFO - Todo MVC Page was launched successfully
+2022-07-30 23:27:17,654 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:17,973 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:17,974 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:18,253 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:18,254 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:18,569 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:18,569 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:18,893 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:18,894 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:19,178 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:19,180 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:19,425 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:19,476 -INFO - Inside MarkItemAsCompletedInList -->>>
+2022-07-30 23:27:20,655 -INFO - Mark Item as Completed, Action completed -->>>
+2022-07-30 23:27:20,656 -INFO - Inside MarkItemAsCompletedInList -->>>
+2022-07-30 23:27:21,821 -INFO - Mark Item as Completed, Action completed -->>>
+2022-07-30 23:27:21,821 -INFO - Inside MarkItemAsCompletedInList -->>>
+2022-07-30 23:27:22,978 -INFO - Mark Item as Completed, Action completed -->>>
+2022-07-30 23:27:22,979 -INFO - Inside ClickOnClearCompletedButton -->>>
+2022-07-30 23:27:23,038 -INFO - Clicked on Clear-Completed button -->>>
+2022-07-30 23:27:23,039 -INFO - Inside Validate_OnlyActiveItemsAreDisplayedInTheList -->>>
+2022-07-30 23:27:28,091 -INFO - Only Active Items are displayed in the list -->>>
+2022-07-30 23:27:28,101 -INFO - Inside Validate_ClearCompletedButtonIsNotDisplayed -->>>
+2022-07-30 23:27:28,134 -INFO - Clear-Completed button is Not displayed -->>>
+2022-07-30 23:27:28,962 -INFO - 
+
+
+2022-07-30 23:27:28,962 -INFO - *********************Scenario Name: Mark items as Completed in ToDo list having Single Item*********************
+2022-07-30 23:27:31,052 -INFO - Launching ToDo MVC Page
+2022-07-30 23:27:31,052 -INFO - Current Test Scenario is being executed in ENV1 environment
+2022-07-30 23:27:32,280 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:27:32,305 -INFO - Inside Validate_Page_Exists -->>>
+2022-07-30 23:27:32,306 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:27:32,474 -INFO - Todo MVC Page was launched successfully
+2022-07-30 23:27:32,490 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:32,862 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:32,907 -INFO - Inside MarkItemAsCompletedInList -->>>
+2022-07-30 23:27:34,115 -INFO - Mark Item as Completed, Action completed -->>>
+2022-07-30 23:27:34,115 -INFO - Inside VerifyItemMarkedAsCompletedInList -->>>
+2022-07-30 23:27:34,222 -INFO - Item is marked as Completed in the ToDo List as expected -->>>
+2022-07-30 23:27:35,076 -INFO - 
+
+
+2022-07-30 23:27:35,076 -INFO - *********************Scenario Name: Delete item from ToDo list having Single Item*********************
+2022-07-30 23:27:37,096 -INFO - Launching ToDo MVC Page
+2022-07-30 23:27:37,096 -INFO - Current Test Scenario is being executed in ENV1 environment
+2022-07-30 23:27:38,522 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:27:38,560 -INFO - Inside Validate_Page_Exists -->>>
+2022-07-30 23:27:38,560 -INFO - ...........Waiting For Page to load..........
+2022-07-30 23:27:38,677 -INFO - Todo MVC Page was launched successfully
+2022-07-30 23:27:38,677 -INFO - Inside AddItemsToList -->>>
+2022-07-30 23:27:38,968 -INFO - Add Item Action completed -->>>
+2022-07-30 23:27:39,090 -INFO - Inside DeleteItemsFromList -->>>
+2022-07-30 23:27:40,335 -INFO - Delete Item Action completed -->>>
+2022-07-30 23:27:40,336 -INFO - Inside Validate_All_Active_And_Completed_Buttons_Are_Not_Displayed -->>>
+2022-07-30 23:27:40,391 -INFO - All, Active and Completed buttons are Not displayed -->>>
